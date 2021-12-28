@@ -7,7 +7,7 @@ Or install packages builded 👇
 ```shell-script
 npm install @ckeditor/ckeditor5-react
 
-npm install @sparkminds/custom-ckeditor5-build-dev
+npm install @sparkminds/custom-ckeditor-build-dev
 ```
 
 ## Usage
