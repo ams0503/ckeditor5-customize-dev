@@ -1,0 +1,19 @@
+{
+  "name": "@sparkminds/custom-ckeditor-build-dev",
+  "version": "1.0.2",
+  "description": "This is a version customize using from packages CKEditor5. You can download and import packages from homepages of CKEdtor to create collaboration yourself or using tool online CKEitor 5 Online Builder.\r Or install packages builded 👇",
+  "main": "ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ams0503/ckeditor5-customize-dev.git"
+  },
+  "author": "sparkminds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ams0503/ckeditor5-customize-dev/issues"
+  },
+  "homepage": "https://github.com/ams0503/ckeditor5-customize-dev#readme"
+}

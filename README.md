@@ -16,7 +16,7 @@ npm install @sparkminds/custom-ckeditor-build-dev
 
 ```js
 import { CKEditor } from "@ckeditor/ckeditor5-react";
-import CustomBuildEditor from "@sparkminds/custom-ckeditor5-build-dev/ckeditor.js";
+import CustomBuildEditor from "@sparkminds/custom-ckeditor-build-dev/ckeditor.js";
 
 <CKEditor
   required
