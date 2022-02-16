@@ -1,4 +1,4 @@
-# CKEditor5-React-SparkMinds v.1.0.3
+# CKEditor5-React-SparkMinds v.1.0.4
 This is a version customize using from packages CKEditor5. You can download and import packages from homepages of CKEdtor to create collaboration yourself or using tool online CKEitor 5 Online Builder.
 Or install packages builded 👇
 
