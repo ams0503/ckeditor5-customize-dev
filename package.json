@@ -1,6 +1,6 @@
 {
   "name": "@sparkminds/custom-ckeditor-build-dev",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is a version customize using from packages CKEditor5. You can download and import packages from homepages of CKEdtor to create collaboration yourself or using tool online CKEitor 5 Online Builder.\r Or install packages builded 👇",
   "main": "ckeditor.js",
   "scripts": {
